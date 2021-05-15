@@ -3,6 +3,8 @@ The following repository consist python code of <i>voice based</i> Virtual Assis
 
 ## How to Run ?
 > In order to run code, you need to meet requirements.txt
+ <br>
+ 
  Run code/virtual_assist.py
  
  
