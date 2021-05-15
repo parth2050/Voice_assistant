@@ -1,0 +1,7 @@
+pyttsx3, 
+os,
+smtplib,
+datetime,
+wikipedia,
+webbrowser,
+speech_recognition
